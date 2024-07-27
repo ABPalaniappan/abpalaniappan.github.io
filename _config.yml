@@ -21,7 +21,7 @@
 title: Dr. AB Palaniappan's Blog
 email: abpalaniappan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-This blog is to show case all the work done by Dr AB Palaniappan in his personal and professional space. It also will have details about his life.
+ This blog is to show case all the work done by Dr AB Palaniappan in his personal and professional space. It also will have details about his life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
