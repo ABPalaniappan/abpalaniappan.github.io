@@ -1,6 +1,6 @@
 ---
 layout: teach_oop
-title: "Teaching OOP Intro"
+title: "Teaching Programming"
 date: 2024-07-27
 categories: teach_oop
 ---

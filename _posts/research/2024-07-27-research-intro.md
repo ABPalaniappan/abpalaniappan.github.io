@@ -1,6 +1,6 @@
 ---
 layout: research
-title: "Research Intro Post"
+title: "Research"
 date: 2024-07-27
 categories: research
 ---
