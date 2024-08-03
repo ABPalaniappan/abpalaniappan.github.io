@@ -34,11 +34,11 @@ plugins:
 
 # Category configutation
 defaults:
-	- scope:
-		path: ""
-		type: teach_oop
-	  values:
-		layout: teach_oop
+    - scope:
+        path: ""
+        type: teach_oop
+      values:
+        layout: teach_oop
     - scope:
         path: ""
         type: research
